@@ -10,9 +10,6 @@ import * as Rellax from 'rellax';
     ngb-progressbar {
         margin-top: 5rem;
     }
-    .n-logo {
-        min-width: 500px;
-    }
     `]
 })
 

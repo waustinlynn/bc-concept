@@ -1,2 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/scss/bootstrap.scss";
+@media only screen and (max-width: 400px){
+    .main-logo {
+        min-width: 250px;
+    }
+
+}
+
+@media only screen and (min-width: 401px){
+    .main-logo {
+        min-width: 500px;
+    }
+}
+
